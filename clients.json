@@ -1,0 +1,197 @@
+[
+  {
+    "client_id": 1,
+    "client_type": "standard",
+    "full_name": "Carlos Martínez",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "618 347 336"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "670 389 206"
+      }
+    ]
+  },
+  {
+    "client_id": 2,
+    "client_type": "standard",
+    "full_name": "Lucía Gómez",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "648 586 400"
+      }
+    ]
+  },
+  {
+    "client_id": 3,
+    "client_type": "standard",
+    "full_name": "Javier Torres",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "643 485 642"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "667 739 803"
+      }
+    ]
+  },
+  {
+    "client_id": 4,
+    "client_type": "standard",
+    "full_name": "Ana Ruiz",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "640 334 554"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "605 361 739"
+      }
+    ]
+  },
+  {
+    "client_id": 5,
+    "client_type": "standard",
+    "full_name": "David Fernández",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "608 944 570"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "699 584 796"
+      }
+    ]
+  },
+  {
+    "client_id": 6,
+    "client_type": "standard",
+    "full_name": "María López",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "677 145 638"
+      }
+    ]
+  },
+  {
+    "client_id": 7,
+    "client_type": "standard",
+    "full_name": "Raúl Sánchez",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "677 910 271"
+      }
+    ]
+  },
+  {
+    "client_id": 8,
+    "client_type": "standard",
+    "full_name": "Isabel Navarro",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "678 844 821"
+      }
+    ]
+  },
+  {
+    "client_id": 9,
+    "client_type": "standard",
+    "full_name": "Pedro Jiménez",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "633 254 428"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "632 625 477"
+      }
+    ]
+  },
+  {
+    "client_id": 10,
+    "client_type": "standard",
+    "full_name": "Elena Castro",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "637 430 911"
+      },
+      {
+        "country_prefix": "+34",
+        "number": "669 955 377"
+      }
+    ]
+  },
+  {
+    "client_id": 11,
+    "client_type": "standard",
+    "full_name": "Sofía Delgado",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "612 998 441"
+      }
+    ]
+  },
+  {
+    "client_id": 12,
+    "client_type": "standard",
+    "full_name": "Tomás Herrera",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "699 112 884"
+      }
+    ]
+  },
+  {
+    "client_id": 16,
+    "client_type": "standard",
+    "full_name": "John Doe",
+    "phone_numbers": [
+      {
+        "country_prefix": "+1",
+        "number": "700-348-3811"
+      }
+    ]
+  },
+  {
+    "client_id": 17,
+    "client_type": "online",
+    "shipping_address": "carrer de mallorca 221",
+    "email": "test.online@example.com",
+    "full_name": "test online user",
+    "phone_numbers": [
+      {
+        "country_prefix": "+34",
+        "number": "609102247"
+      }
+    ]
+  },
+  {
+    "client_id": 18,
+    "client_type": "corporate",
+    "cif": "F12345678",
+    "contact_name": "Jean Dupton",
+    "billing_address": "Rue de la Paix 10, 75001 Paris, France",
+    "mailing_address": "Rue de la Paix 10, 75001 Paris, France",
+    "full_name": "Test Company France",
+    "phone_numbers": [
+      {
+        "country_prefix": "+33",
+        "number": "123456789"
+      }
+    ]
+  }
+]

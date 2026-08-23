@@ -1,0 +1,1196 @@
+[
+  {
+    "product_id": "GLS-0001J",
+    "product_name": "Spectra Modern",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0002J",
+    "product_name": "NovaFrame Elite",
+    "product_type": "glasses",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0003H",
+    "product_name": "LuxSight Urban",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0004E",
+    "product_name": "FrameTech Minimal",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0005X",
+    "product_name": "FrameTech Elite",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0006O",
+    "product_name": "LuxSight Retro",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0007I",
+    "product_name": "NovaFrame Minimal",
+    "product_type": "glasses",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0008E",
+    "product_name": "FrameTech Classic",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0009O",
+    "product_name": "Lensify Urban",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0010X",
+    "product_name": "ZenOptic Sport",
+    "product_type": "glasses",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0011W",
+    "product_name": "Lensify Trend",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0012G",
+    "product_name": "ZenOptic Classic",
+    "product_type": "glasses",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0013D",
+    "product_name": "Spectra Urban",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0014X",
+    "product_name": "ClearView Urban",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0015B",
+    "product_name": "Spectra Minimal",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0016H",
+    "product_name": "OptiLux Trend",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0017W",
+    "product_name": "EyeCraft Sport",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0018R",
+    "product_name": "ClearView Minimal",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0019C",
+    "product_name": "OptiLux Premium",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0020S",
+    "product_name": "VisionPro Modern",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0021G",
+    "product_name": "Lensify Trend",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0022O",
+    "product_name": "LuxSight Vision",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0023D",
+    "product_name": "LuxSight Vision",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0024T",
+    "product_name": "ClearView Classic",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0025M",
+    "product_name": "VisionPro Premium",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0026E",
+    "product_name": "ClearView Sport",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0027K",
+    "product_name": "LuxSight Classic",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0028B",
+    "product_name": "Lensify Elite",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0029J",
+    "product_name": "Lensify Vision",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0030J",
+    "product_name": "Lensify Retro",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0031H",
+    "product_name": "ZenOptic Minimal",
+    "product_type": "glasses",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0032R",
+    "product_name": "VisionPro Modern",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0033A",
+    "product_name": "ZenOptic Sport",
+    "product_type": "glasses",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0034M",
+    "product_name": "OptiLux Minimal",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0035C",
+    "product_name": "ClearView Trend",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0036F",
+    "product_name": "LuxSight Premium",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0037X",
+    "product_name": "Spectra Minimal",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0038X",
+    "product_name": "ClearView Vision",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0039D",
+    "product_name": "LuxSight Classic",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0040T",
+    "product_name": "Spectra Minimal",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0041V",
+    "product_name": "FrameTech Vision",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0042B",
+    "product_name": "NovaFrame Sport",
+    "product_type": "glasses",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0043Z",
+    "product_name": "VisionPro Modern",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0044B",
+    "product_name": "OptiLux Classic",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0045B",
+    "product_name": "LuxSight Urban",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0046T",
+    "product_name": "OptiLux Minimal",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0047E",
+    "product_name": "OptiLux Trend",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0048U",
+    "product_name": "LuxSight Premium",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0049N",
+    "product_name": "LuxSight Sport",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0050F",
+    "product_name": "OptiLux Modern",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0051N",
+    "product_name": "FrameTech Minimal",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0052R",
+    "product_name": "EyeCraft Premium",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0053J",
+    "product_name": "Spectra Sport",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0054I",
+    "product_name": "FrameTech Trend",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0055V",
+    "product_name": "Lensify Urban",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0056R",
+    "product_name": "ClearView Urban",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0057W",
+    "product_name": "EyeCraft Modern",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0058N",
+    "product_name": "Spectra Urban",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0059K",
+    "product_name": "FrameTech Trend",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0060D",
+    "product_name": "NovaFrame Modern",
+    "product_type": "glasses",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0061D",
+    "product_name": "OptiLux Classic",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0062R",
+    "product_name": "Lensify Minimal",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0063K",
+    "product_name": "ClearView Elite",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0064T",
+    "product_name": "VisionPro Trend",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0065Q",
+    "product_name": "Spectra Elite",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0066J",
+    "product_name": "Lensify Retro",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0067T",
+    "product_name": "EyeCraft Retro",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0068F",
+    "product_name": "EyeCraft Modern",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0069F",
+    "product_name": "Spectra Premium",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0070T",
+    "product_name": "EyeCraft Trend",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0071H",
+    "product_name": "Lensify Trend",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0072G",
+    "product_name": "OptiLux Trend",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0073V",
+    "product_name": "FrameTech Elite",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0074I",
+    "product_name": "Lensify Classic",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0075F",
+    "product_name": "LuxSight Classic",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0076E",
+    "product_name": "Spectra Elite",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0077U",
+    "product_name": "Spectra Classic",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0078X",
+    "product_name": "LuxSight Classic",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0079I",
+    "product_name": "Spectra Sport",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0080X",
+    "product_name": "OptiLux Vision",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0081L",
+    "product_name": "Spectra Modern",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0082M",
+    "product_name": "Lensify Trend",
+    "product_type": "glasses",
+    "brand": "Lensify",
+    "model": "LF-RT500"
+  },
+  {
+    "product_id": "GLS-0083A",
+    "product_name": "OptiLux Premium",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0084R",
+    "product_name": "ClearView Elite",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0085W",
+    "product_name": "ClearView Vision",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0086N",
+    "product_name": "EyeCraft Urban",
+    "product_type": "glasses",
+    "brand": "EyeCraft",
+    "model": "EC-UR400"
+  },
+  {
+    "product_id": "GLS-0087P",
+    "product_name": "OptiLux Elite",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0088L",
+    "product_name": "ZenOptic Urban",
+    "product_type": "glasses",
+    "brand": "ZenOptic",
+    "model": "ZO-MN1000"
+  },
+  {
+    "product_id": "GLS-0089Z",
+    "product_name": "Spectra Vision",
+    "product_type": "glasses",
+    "brand": "Spectra",
+    "model": "SP-VS700"
+  },
+  {
+    "product_id": "GLS-0090I",
+    "product_name": "OptiLux Premium",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0091C",
+    "product_name": "ClearView Modern",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0092K",
+    "product_name": "ClearView Classic",
+    "product_type": "glasses",
+    "brand": "ClearView",
+    "model": "CV-EL300"
+  },
+  {
+    "product_id": "GLS-0093S",
+    "product_name": "NovaFrame Retro",
+    "product_type": "glasses",
+    "brand": "NovaFrame",
+    "model": "NF-TR900"
+  },
+  {
+    "product_id": "GLS-0094B",
+    "product_name": "VisionPro Premium",
+    "product_type": "glasses",
+    "brand": "VisionPro",
+    "model": "VP-CL100"
+  },
+  {
+    "product_id": "GLS-0095V",
+    "product_name": "OptiLux Premium",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0096D",
+    "product_name": "FrameTech Minimal",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "GLS-0097K",
+    "product_name": "OptiLux Premium",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0098G",
+    "product_name": "OptiLux Sport",
+    "product_type": "glasses",
+    "brand": "OptiLux",
+    "model": "OL-MD200"
+  },
+  {
+    "product_id": "GLS-0099W",
+    "product_name": "LuxSight Vision",
+    "product_type": "glasses",
+    "brand": "LuxSight",
+    "model": "LS-PR800"
+  },
+  {
+    "product_id": "GLS-0100S",
+    "product_name": "FrameTech Minimal",
+    "product_type": "glasses",
+    "brand": "FrameTech",
+    "model": "FT-SP600"
+  },
+  {
+    "product_id": "CLS-0001A",
+    "product_name": "AquaVision Daily",
+    "product_type": "contact_lenses",
+    "brand": "Aquavision",
+    "model": "AV-LR780",
+    "graduation": -2.50,
+    "number_of_lenses": 30,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0002B",
+    "product_name": "ClearSoft Monthly",
+    "product_type": "contact_lenses",
+    "brand": "ClearSoft",
+    "model": "CS-TR700",
+    "graduation": 1.75,
+    "number_of_lenses": 6,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0003C",
+    "product_name": "UltraLens Pro",
+    "product_type": "contact_lenses",
+    "brand": "UltraVision",
+    "model": "UV-MK580",
+    "graduation": -7.00,
+    "number_of_lenses": 12,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0004D",
+    "product_name": "VisionMax Comfort",
+    "product_type": "contact_lenses",
+    "brand": "VisionMax",
+    "model": "VM-FW240",
+    "graduation": 4.25,
+    "number_of_lenses": 30,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0005E",
+    "product_name": "PureSight Daily",
+    "product_type": "contact_lenses",
+    "brand": "PureSight",
+    "model": "PS-DL100",
+    "graduation": -1.25,
+    "number_of_lenses": 30,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0006F",
+    "product_name": "OptiClear Monthly",
+    "product_type": "contact_lenses",
+    "brand": "OptiClear",
+    "model": "OC-MN210",
+    "graduation": 2.00,
+    "number_of_lenses": 6,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0007G",
+    "product_name": "VisionPro Advanced",
+    "product_type": "contact_lenses",
+    "brand": "VisionPro",
+    "model": "VP-AX450",
+    "graduation": -5.50,
+    "number_of_lenses": 12,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0008H",
+    "product_name": "SoftWear Comfort",
+    "product_type": "contact_lenses",
+    "brand": "SoftWear",
+    "model": "SW-CF330",
+    "graduation": 3.00,
+    "number_of_lenses": 30,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0009I",
+    "product_name": "CrystalView Plus",
+    "product_type": "contact_lenses",
+    "brand": "CrystalView",
+    "model": "CV-PL720",
+    "graduation": -8.25,
+    "number_of_lenses": 6,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0010J",
+    "product_name": "AeroLens Daily",
+    "product_type": "contact_lenses",
+    "brand": "AeroLens",
+    "model": "AL-DY110",
+    "graduation": 0.75,
+    "number_of_lenses": 30,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0011K",
+    "product_name": "ClearEdge Monthly",
+    "product_type": "contact_lenses",
+    "brand": "ClearEdge",
+    "model": "CE-MT560",
+    "graduation": -3.75,
+    "number_of_lenses": 6,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0012L",
+    "product_name": "UltraSoft Premium",
+    "product_type": "contact_lenses",
+    "brand": "UltraSoft",
+    "model": "US-PR900",
+    "graduation": 5.00,
+    "number_of_lenses": 12,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0013M",
+    "product_name": "FocusWear Lite",
+    "product_type": "contact_lenses",
+    "brand": "FocusWear",
+    "model": "FW-LT410",
+    "graduation": -0.50,
+    "number_of_lenses": 30,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0014N",
+    "product_name": "HydraLens Max",
+    "product_type": "contact_lenses",
+    "brand": "HydraLens",
+    "model": "HL-MX875",
+    "graduation": 1.25,
+    "number_of_lenses": 6,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0015O",
+    "product_name": "NightView Pro",
+    "product_type": "contact_lenses",
+    "brand": "NightView",
+    "model": "NV-PRO77",
+    "graduation": -6.00,
+    "number_of_lenses": 12,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0016P",
+    "product_name": "DayComfort Flex",
+    "product_type": "contact_lenses",
+    "brand": "DayComfort",
+    "model": "DC-FX340",
+    "graduation": 2.75,
+    "number_of_lenses": 30,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0017Q",
+    "product_name": "SharpSight Elite",
+    "product_type": "contact_lenses",
+    "brand": "SharpSight",
+    "model": "SS-EL660",
+    "graduation": -9.00,
+    "number_of_lenses": 6,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CLS-0018R",
+    "product_name": "SoftVision Balance",
+    "product_type": "contact_lenses",
+    "brand": "SoftVision",
+    "model": "SV-BL290",
+    "graduation": 4.75,
+    "number_of_lenses": 12,
+    "uv_filter": false
+  },
+  {
+    "product_id": "CLS-0019S",
+    "product_name": "PureFocus Daily",
+    "product_type": "contact_lenses",
+    "brand": "PureFocus",
+    "model": "PF-DL555",
+    "graduation": -2.00,
+    "number_of_lenses": 30,
+    "uv_filter": true
+  },
+  {
+    "product_id": "CON-0001A",
+    "product_name": "Lens Cleaning Solution",
+    "product_type": "consumable",
+    "brand": "Aquavision",
+    "model": "AV-MS510",
+    "volume": 250,
+    "expiration_date": "2026-05-12",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0002B",
+    "product_name": "Anti-Fog Spray",
+    "product_type": "consumable",
+    "brand": "ClearSoft",
+    "model": "CS-NL440",
+    "volume": 50,
+    "expiration_date": "2027-01-20",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0003C",
+    "product_name": "Contact Lens Solution",
+    "product_type": "consumable",
+    "brand": "Aquavision",
+    "model": "AV-CS690",
+    "volume": 360,
+    "expiration_date": "2026-11-03",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0004D",
+    "product_name": "Eye Drops Sensitive",
+    "product_type": "consumable",
+    "brand": "VisionMax",
+    "model": "VM-OP348",
+    "volume": 10,
+    "expiration_date": "2025-09-15",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0005E",
+    "product_name": "Hydrating Eye Drops",
+    "product_type": "consumable",
+    "brand": "PureSight",
+    "model": "PS-HD120",
+    "volume": 15,
+    "expiration_date": "2026-08-10",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0006F",
+    "product_name": "Multi-Purpose Lens Solution",
+    "product_type": "consumable",
+    "brand": "OptiClear",
+    "model": "OC-MP500",
+    "volume": 500,
+    "expiration_date": "2027-03-22",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0007G",
+    "product_name": "Protein Removal Tablets",
+    "product_type": "consumable",
+    "brand": "VisionPro",
+    "model": "VP-PR080",
+    "volume": 30,
+    "expiration_date": "2026-12-01",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0008H",
+    "product_name": "Lens Comfort Spray",
+    "product_type": "consumable",
+    "brand": "SoftWear",
+    "model": "SW-SP220",
+    "volume": 20,
+    "expiration_date": "2025-11-18",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0009I",
+    "product_name": "Saline Solution",
+    "product_type": "consumable",
+    "brand": "CrystalView",
+    "model": "CV-SA330",
+    "volume": 360,
+    "expiration_date": "2027-07-05",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0010J",
+    "product_name": "Lubricating Eye Gel",
+    "product_type": "consumable",
+    "brand": "AeroLens",
+    "model": "AL-GE145",
+    "volume": 10,
+    "expiration_date": "2026-01-30",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0011K",
+    "product_name": "Daily Lens Cleaner",
+    "product_type": "consumable",
+    "brand": "ClearEdge",
+    "model": "CE-DC410",
+    "volume": 240,
+    "expiration_date": "2026-09-14",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0012L",
+    "product_name": "Sensitive Eye Drops",
+    "product_type": "consumable",
+    "brand": "UltraSoft",
+    "model": "US-SE098",
+    "volume": 12,
+    "expiration_date": "2025-10-09",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0013M",
+    "product_name": "All-in-One Solution",
+    "product_type": "consumable",
+    "brand": "FocusWear",
+    "model": "FW-AO600",
+    "volume": 600,
+    "expiration_date": "2027-04-27",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0014N",
+    "product_name": "Refreshing Eye Mist",
+    "product_type": "consumable",
+    "brand": "HydraLens",
+    "model": "HL-RM050",
+    "volume": 50,
+    "expiration_date": "2026-06-02",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0015O",
+    "product_name": "Disinfecting Lens Solution",
+    "product_type": "consumable",
+    "brand": "NightView",
+    "model": "NV-DS480",
+    "volume": 480,
+    "expiration_date": "2027-02-11",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0016P",
+    "product_name": "Soothing Eye Drops",
+    "product_type": "consumable",
+    "brand": "DayComfort",
+    "model": "DC-SO110",
+    "volume": 15,
+    "expiration_date": "2025-12-20",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0017Q",
+    "product_name": "Lens Storage Solution",
+    "product_type": "consumable",
+    "brand": "SharpSight",
+    "model": "SS-LS300",
+    "volume": 300,
+    "expiration_date": "2026-10-08",
+    "preservatives": true
+  },
+  {
+    "product_id": "CON-0018R",
+    "product_name": "Rewetting Drops",
+    "product_type": "consumable",
+    "brand": "SoftVision",
+    "model": "SV-RW075",
+    "volume": 7,
+    "expiration_date": "2025-08-31",
+    "preservatives": false
+  },
+  {
+    "product_id": "CON-0019S",
+    "product_name": "Travel Lens Solution",
+    "product_type": "consumable",
+    "brand": "PureFocus",
+    "model": "PF-TR100",
+    "volume": 100,
+    "expiration_date": "2026-04-16",
+    "preservatives": true
+  },
+  {
+    "product_id": "SRV-0001A",
+    "product_name": "Eye Examination",
+    "product_type": "service",
+    "duration_hours": 1
+  },
+  {
+    "product_id": "SRV-0002B",
+    "product_name": "Frame Adjustment",
+    "product_type": "service",
+    "duration_hours": 0.5
+  },
+  {
+    "product_id": "SRV-0003C",
+    "product_name": "Lens Replacement Service",
+    "product_type": "service",
+    "duration_hours": 2
+  },
+  {
+    "product_id": "SRV-0004D",
+    "product_name": "Contact Lens Fitting",
+    "product_type": "service",
+    "duration_hours": 1.5
+  },
+  {
+    "product_id": "SRV-0005E",
+    "product_name": "Comprehensive Eye Exam",
+    "product_type": "service",
+    "duration_hours": 1.5
+  },
+  {
+    "product_id": "SRV-0006F",
+    "product_name": "Contact Lens Training",
+    "product_type": "service",
+    "duration_hours": 1
+  },
+  {
+    "product_id": "SRV-0007G",
+    "product_name": "Prescription Update",
+    "product_type": "service",
+    "duration_hours": 0.75
+  },
+  {
+    "product_id": "SRV-0008H",
+    "product_name": "Children Eye Check",
+    "product_type": "service",
+    "duration_hours": 1
+  },
+  {
+    "product_id": "SRV-0009I",
+    "product_name": "Vision Screening",
+    "product_type": "service",
+    "duration_hours": 0.5
+  },
+  {
+    "product_id": "SRV-0010J",
+    "product_name": "Contact Lens Follow-up",
+    "product_type": "service",
+    "duration_hours": 0.5
+  },
+  {
+    "product_id": "SRV-0011K",
+    "product_name": "Digital Eye Strain Assessment",
+    "product_type": "service",
+    "duration_hours": 1
+  },
+  {
+    "product_id": "SRV-0012L",
+    "product_name": "Emergency Eye Consultation",
+    "product_type": "service",
+    "duration_hours": 2
+  },
+  {
+    "product_id": "SRV-0013M",
+    "product_name": "Sports Vision Evaluation",
+    "product_type": "service",
+    "duration_hours": 1.25
+  },
+  {
+    "product_id": "SRV-0014N",
+    "product_name": "Senior Vision Exam",
+    "product_type": "service",
+    "duration_hours": 1.5
+  },
+  {
+    "product_id": "SRV-0015O",
+    "product_name": "Dry Eye Assessment",
+    "product_type": "service",
+    "duration_hours": 1
+  },
+  {
+    "product_id": "SRV-0016P",
+    "product_name": "Visual Acuity Test",
+    "product_type": "service",
+    "duration_hours": 0.25
+  },
+  {
+    "product_id": "SRV-0017Q",
+    "product_name": "Lens Care Consultation",
+    "product_type": "service",
+    "duration_hours": 0.75
+  },
+  {
+    "product_id": "SRV-0018R",
+    "product_name": "Pre-Surgery Eye Exam",
+    "product_type": "service",
+    "duration_hours": 2
+  },
+  {
+    "product_id": "SRV-0019S",
+    "product_name": "Annual Vision Check",
+    "product_type": "service",
+    "duration_hours": 1
+  }
+]
