@@ -11,7 +11,7 @@ import java.io.IOException;
  * @author Aras y Judith - Nude Eye Project
  */
 public class PersistenceManager {
-    private static final String BASE_API_URL = "http://localhost/dpoo";
+    private static final String BASE_API_URL = ApiConfig.baseUrl();
     private static final String GROUP_ID = "P1-Project-112";
     
     private final ApiHelper apiHelper;

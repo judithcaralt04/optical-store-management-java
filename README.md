@@ -40,6 +40,7 @@ This was a two person team project. I was responsible for the entire implementat
 2. Make sure `lib/ApiHelper.jar` and `lib/CoordinatesAPI.jar` are on the classpath, they are small helper libraries provided by the course for the API calls and the geolocation calculations
 3. Run `src/Main.java` from your IDE
 4. The application will try to use the API first, and fall back to the local `clients.json`, `products.json`, `providers.json` and `sales.csv` files if it is not available
+5. Optional: to use the remote API, set its address with the `API_BASE_URL` environment variable (or `-Dapi.baseUrl=...`). Without it the application uses the local files
 
 ## Documentation
 

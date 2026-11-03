@@ -27,7 +27,7 @@ public class ProviderAPIDAO implements ProviderDAO {
      */
     public ProviderAPIDAO(ApiHelper apiHelper) {
         this.apiHelper = apiHelper;
-        this.baseUrl = "http://localhost/dpoo";
+        this.baseUrl = ApiConfig.baseUrl();
         this.providers = new ArrayList<>();
         try {
             loadAll();

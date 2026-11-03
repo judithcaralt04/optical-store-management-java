@@ -26,7 +26,7 @@ public class SaleAPIDAO implements SaleDAO {
      */
     public SaleAPIDAO(ApiHelper apiHelper, String groupId) {
         this.apiHelper = apiHelper;
-        this.baseUrl = "http://localhost/dpoo";
+        this.baseUrl = ApiConfig.baseUrl();
         this.groupId = groupId;
         this.sales = new ArrayList<>();
         try {

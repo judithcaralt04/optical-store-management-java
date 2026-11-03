@@ -29,7 +29,7 @@ public class ClientAPIDAO implements ClientDAO {
      */
     public ClientAPIDAO(ApiHelper apiHelper, String groupId) {
         this.apiHelper = apiHelper;
-        this.baseUrl = "http://localhost/dpoo";
+        this.baseUrl = ApiConfig.baseUrl();
         this.groupId = groupId;
         this.clients = new ArrayList<>();
         try {

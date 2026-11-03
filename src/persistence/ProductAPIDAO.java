@@ -26,7 +26,7 @@ public class ProductAPIDAO implements ProductDAO {
      */
     public ProductAPIDAO(ApiHelper apiHelper) {
         this.apiHelper = apiHelper;
-        this.baseUrl = "http://localhost/dpoo";
+        this.baseUrl = ApiConfig.baseUrl();
         this.products = new ArrayList<>();
         try {
             loadAll();
