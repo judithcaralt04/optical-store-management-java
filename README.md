@@ -1,4 +1,4 @@
-# Nude Eye Project
+# Optical Store Management (Java)
 
 A console based Java application for managing an optical store, built with a layered architecture. Developed for the Object Oriented Design and Programming course.
 
